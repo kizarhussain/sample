@@ -1,8 +1,1 @@
-#h1
-##h2
-
--
--
-
-1.
-2.
+# This is the Sample repo to pracice my git and github skill

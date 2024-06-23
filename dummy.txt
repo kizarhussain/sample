@@ -1,3 +1,5 @@
 Hi My Name is Kizar Hussain
 hi my name is ashik
 hi my name is rizwan
+
+const myFam = ['Raffi', 'Naseema', 'Raashitha']
